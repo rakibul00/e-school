@@ -1,0 +1,52 @@
+.navbar-brand img{
+    width: 100px;
+}
+.all-button{
+    background-color: #21B573;
+    border-radius: 9px;
+    color: white;
+    border: none;
+}
+.coler-hilight{
+    color: black;
+    font-size: 70px;
+}
+.first-h1{
+    color: #21B573;
+    font-size: 50px;
+}
+.crasoul-p{
+    font-size: 25px;
+    color: #6C6B6B;
+}
+.first-h3{
+    color: #FD511A;
+
+}
+.cardd img{
+    width: 200px;
+   
+}
+.col{
+    box-shadow: 4px 4px 7px gray;
+    border: none;
+    border-radius: 6px;
+}
+.cntar-h1{
+    text-align: center;
+    color: #413960;
+}
+.hafe-writh img{
+    width: 300px;
+    padding-left: 20px;
+    
+}
+.hafe-writh{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hafe-writh p{
+    font-size: px;
+}
